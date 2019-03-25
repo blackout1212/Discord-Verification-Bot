@@ -2,7 +2,7 @@ All the settings for the bot go in config.json
 
 The bot token is the token for your Discord Application.
 
-A tutorial on creating a Discord application, getting the token and adding the bot to your server is here https://github.com/SinisterRectus/Discordia/wiki/Setting-up-a-Discord-application but ignore anything about OAuth as we don't require it for this app.
+A tutorial on creating a Discord application, getting the token and adding the bot to your server is here https://github.com/SinisterRectus/Discordia/wiki/Setting-up-a-Discord-application 
 
 You can get the ID for your server (guide on getting that here https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 
